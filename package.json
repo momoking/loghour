@@ -7,10 +7,17 @@
   },
   "author": "Harry Z",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/momoking/loghour.git"
+  },
   "preferGlobal": true,
   "bin": {
     "loghour": "index.js"
   },
   "logfile": "log.csv",
-  "timeFormat": "YYYY-MM-DD HH:mm:ss"
+  "timeFormat": "YYYY-MM-DD HH:mm:ss",
+  "dependencies": {
+    "moment": "~2.0.0"
+  }
 }

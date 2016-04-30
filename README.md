@@ -2,9 +2,18 @@
 A simple NodeJS CLI to keep track of times in a punch card fashion.
 
 
+### Install
+
+```
+sudo npm install -g
+```
+
 ### Usage
 
-To punch a time, simply execute command `loghour`, this will append a timestamp to a log file.
+To punch a time, simply execute command `loghour`, this will append a timestamp to a log file of your choice (configurable in `package.json`).
+
+```
+
 
 ### Example
 
