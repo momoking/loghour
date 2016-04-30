@@ -12,7 +12,6 @@ sudo npm install -g
 
 To punch a time, simply execute command `loghour`, this will append a timestamp to a log file of your choice (configurable in `package.json`).
 
-```
 
 
 ### Example
