@@ -15,8 +15,8 @@
   "bin": {
     "loghour": "index.js"
   },
-  "logfile": "log.csv",
-  "timeFormat": "YYYY-MM-DD HH:mm:ss",
+  "logfile": "/Users/momoking/loghour.txt",
+  "timeFormat": "YYYY-MM-DD HH:mm",
   "dependencies": {
     "moment": "~2.0.0"
   }
