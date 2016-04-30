@@ -1,0 +1,16 @@
+{
+  "name": "loghour",
+  "version": "1.0.0",
+  "description": "CLI to log work hours",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harry Z",
+  "license": "ISC",
+  "preferGlobal": true,
+  "bin": {
+    "loghour": "index.js"
+  },
+  "logfile": "log.csv",
+  "timeFormat": "YYYY-MM-DD HH:mm:ss"
+}
